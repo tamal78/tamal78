@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **[Mail](mailto:tamalkundu2002@gmail.com)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1afUFYIGT2KiE-0l_0N9AbuKUwF_TdVD2/view?usp=sharing)**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1afUFYIGT2KiE-0l_0N9AbuKUwF_TdVD2/view?usp=sharing" target="_blank" rel="noopener noreferrer"><b>Resume</b></a>
 
 - ⚡ Fun fact **I love dogs**
 <h3 align="left">My Profiles:</h3>
